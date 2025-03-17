@@ -1,5 +1,5 @@
 #Menu - Elabore um programa que mostre o seguinte menu na tela:
-Cadastro de Clientes
+#Cadastro de Clientes
 
 print("0 - fim")
 print("1 - inclui")
