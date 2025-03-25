@@ -1,15 +1,14 @@
 #7. Pinheiro  - Implemente um programa que desenhe um "pinheiro" na tela, similar ao abaixo.
-Enriqueça o desenho com outros caracteres, simulando enfeites.
-print("")
-print     ("X")       
-print    ("XXX")
-print   ("XXXXX")
-print  ("XXXXXXX")
-print ("XXXXXXXXXXX")
-print("XXXXXXXXXXXXX")
-print("XXXXXXXXXXXXXXX")
-print("      XX   ") 
-print ("     XX")
-print ("    XXX")
+#Enriqueça o desenho com outros caracteres, simulando enfeites.
+print("       X")
+print("      xxx")
+print("     xxxxx")
+print("    xxxxxxx")
+print("   xxxxxxxxx")
+print("  xxxxxxxxxxx")
+print(" xxxxxxxxxxxxx")
+print("xxxxxxxxxxxxxxx")
+print("        xx")
+print("        xx")
+print("       xxxx")
 
- 
